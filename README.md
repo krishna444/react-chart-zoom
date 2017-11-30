@@ -7,4 +7,7 @@ Zoom implementation in React-ChartJS-2
 * Provide the following commands
   _npm install_
   _npm start_
-* 
+* open this link: http://localhost:8081 to view chart.
+
+
+
